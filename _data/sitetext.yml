@@ -99,7 +99,7 @@ en: &DEFAULT_EN
     text: "about us"
     body: "Top IT service Limited. Established in 2015, our company has delivered various IT hardware equipment and ICT operation and maintenance services to more than 50,000 headquarters and branches globally and has successfully implemented more than 1,000 large-scale projects.
 <br>We provide global customers with enterprise-level IT products including network equipment, server and storage from various brands, such as Cisco, Aruba, HPE, Huawei, Ubiquiti, Fortinet, Ruckus, Polycom, etc. <br>We guarantee products with high quality and competitive prices. 
-We are confident that we will become your preferred partner, which in return will save your administration time, reducing substantial cost, improving quality and efficiency.
+We are confident that we will become your preferred partner, which in return will save your administration time, reducing substantial cost, improving quality and efficiency.<br>
 Coming together is a beginning, staying together is progress, and working together is success!"
     section: about
 
