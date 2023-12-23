@@ -11,15 +11,15 @@
 # -----------------
 en: &DEFAULT_EN
   nav:
-    - title: "技术服务"
+    - title: "Products"
       section: services
-    - title: "成功案例"
+    - title: "Services"
       section: portfolio
-    - title: "产品中心"
-      section: team
-    - title: "关于我们"
+    # - title: "产品中心"
+    #   section: team
+    - title: "About us"
       section: about
-    - title: "联系我们"
+    - title: "Contact us"
       section: contact
     # - title: "Theme Source"
     #   url: https://github.com/raviriley/agency-jekyll-theme/
@@ -48,8 +48,8 @@ es: &DEFAULT_ES
       section: equipo
     - title: "Contáctenos"
       section: contacto
-    - title: "Fuente de la plantilla"
-      url: https://github.com/raviriley/agency-jekyll-theme/
+    # - title: "Fuente de la plantilla"
+    #   url: https://github.com/raviriley/agency-jekyll-theme/
 es-ES:
   <<: *DEFAULT_ES
 es-CO:
@@ -71,5 +71,5 @@ de: &DEFAULT_DE
       section: Team
     - title: "Kontakt"
       section: Kontakt
-    - title: "Quellcode des Themas"
-      url: https://github.com/raviriley/agency-jekyll-theme/
+    # - title: "Quellcode des Themas"
+    #   url: https://github.com/raviriley/agency-jekyll-theme/
