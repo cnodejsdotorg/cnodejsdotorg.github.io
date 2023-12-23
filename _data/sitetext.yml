@@ -11,9 +11,9 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: 洞悉行业价值，构建数字化未来
-    text:  冠服云，可信赖的行业数字化服务商
-    button: 了解更多
+    title: TOP IT Service
+    text:  leading global ICT infra managed service provider & hardware distribution
+    button: Learn More
     buttonlink: "#services"
 
   services:

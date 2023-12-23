@@ -13,16 +13,16 @@
 
 remote-theme: jekyll-agency
 
-url    : "https://topsvcloud.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url    : "https://cnodejsdotorg.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 
-title      : 管理服务云
+title      : Top IT Service
 email      : m001@mspyun.com #this is also the email contact forms will go to
 description: "管理服务云"
 author     : pangxx
 logo:     #optional, defaults to site title
-  path: assets\img\clients\topsvc3.png
-  height: 60 #height in px, defaults to 52px
+  path: assets\img\clients\topitlogo.png
+  height: 52 #height in px, defaults to 52px
 
 locale: "en-US" # See available languages in _data/sitetext.yml
 
