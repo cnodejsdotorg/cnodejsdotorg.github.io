@@ -7,7 +7,7 @@ subtitle:
 caption:
   title: Logistics & Warehousing
   subtitle:  
-  thumbnail: /assets/img/images/image009.jpg #https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/02-thumbnail.jpg
+  thumbnail: /assets/img/images/Big_8.jpg #https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/02-thumbnail.jpg
 ---
 ## We handles the following services
 - Freight Forwarding

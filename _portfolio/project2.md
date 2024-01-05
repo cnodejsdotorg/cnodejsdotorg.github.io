@@ -7,7 +7,7 @@ subtitle:
 caption:
   title: Global ICT Services
   subtitle: 
-  thumbnail: /assets/img/images/image009.jpg #https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/02-thumbnail.jpg
+  thumbnail: /assets/img/images/Big_7.jpg #https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/02-thumbnail.jpg
 ---
 
 ### **Data Center Maintenance Support**<br>

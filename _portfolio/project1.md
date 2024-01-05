@@ -7,7 +7,7 @@ alt:
 caption:
   title: Professional Services
   subtitle:  
-  thumbnail: /assets/img/images/image008.jpg #https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/01-thumbnail.jpg
+  thumbnail: /assets/img/images/Big_10.jpg #https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/01-thumbnail.jpg
 ---
 
 ### **IT Asset Disposition**<br>

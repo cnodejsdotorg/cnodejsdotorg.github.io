@@ -2,7 +2,7 @@
 caption: #what displays in the portfolio grid:
   title: Telecom Solutions
   subtitle: 
-  thumbnail: /assets/img/images/image007.jpg #https://place-hold.it/400x300
+  thumbnail: /assets/img/images/Big_11.jpg #https://place-hold.it/400x300
   
 #what displays when the item is clicked:
 title: Telecom Solutions

@@ -33,15 +33,15 @@ en: &DEFAULT_EN
       - title: "Firewalls"
         desc: "Fortinet/Cisco/Sangfor/HUAWEI etc."
         # icon: fab fa-markdown
-        icon: assets/img/images/image003.jpg
+        icon: assets/img/images/image008.jpg
       - title: "Wireless"
         desc: "Cisco/Aruba/HUAWEI/Meraki etc."
         # icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-        icon: assets/img/images/image001.jpg
+        icon: assets/img/images/image009.jpg
       - title: "Storages & Servers"
         desc: "DELL/HPE/Lenovo etc."
         # icon: fas fa-laptop
-        icon: assets/img/images/image002.jpg
+        icon: assets/img/images/image007.jpg
       - title: "IT Accessories"
         desc: "Modules & Cards/Power Supplies/Other Accessories"
         # icon: fab fa-markdown
